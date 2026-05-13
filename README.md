@@ -83,6 +83,7 @@ git clone <repository-link>
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn
+
 Open the Python notebook/script
 Load the dataset
 Run SQL queries in PostgreSQL/MySQL/SQL Server
